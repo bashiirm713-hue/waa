@@ -1,0 +1,35 @@
+        body{
+            background-color: rgb(83, 81, 79);
+        }
+        .div1{
+            background-color: rgb(131, 201, 178);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: black;
+            font-size: larger;
+            text-align: center;
+            padding-top: 5px;
+        }
+        nav{
+            width: 150px;
+            float: left;
+            padding: 10px;
+
+        }
+        a{
+            text-decoration: none;
+            color: black;
+        }
+        .div3{
+            margin-left: 160px;
+            padding: 10px;
+            background-color: rgb(240, 200, 140);
+            margin-right: 10px;
+        }
+        footer{
+            text-align: center;
+            background-color: chocolate;
+            color: black;
+            padding: 1px;
+            padding-left: 50px;
+            
+        }
